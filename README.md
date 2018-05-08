@@ -5,4 +5,4 @@ In this repository, we will implement deep neural network only using python
 Custom layers,  
 Custom number of nodes per layer,   
 Custom activation functions,    
-Regularization and Dropout   
+L2 Regularization and Dropout   
